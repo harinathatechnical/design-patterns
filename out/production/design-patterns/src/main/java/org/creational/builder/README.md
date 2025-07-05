@@ -112,3 +112,17 @@ private Computer(ComputerBuilder builder) {
 }
 
 ```
+---
+
+## 📌 Builder Pattern Examples in JDK
+
+The **Builder Pattern** is used in the Java Standard Library in several places.
+
+Common examples include:
+
+- 🧩 `java.lang.StringBuilder#append()` — *unsynchronized*
+- 🧩 `java.lang.StringBuffer#append()` — *synchronized*
+
+Both classes allow you to build a complex `String` step-by-step using chained `append()` calls — just like a typical builder!
+
+---
