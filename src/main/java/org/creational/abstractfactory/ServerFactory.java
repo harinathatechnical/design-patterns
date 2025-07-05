@@ -1,4 +1,4 @@
-package src.main.java.org.creational.abbstract;
+package src.main.java.org.creational.abstractfactory;
 
 public class ServerFactory implements ComputerAbstractFactory {
     private String ram;
