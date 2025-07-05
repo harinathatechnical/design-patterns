@@ -47,7 +47,7 @@ The basic form of object creation using the `new` keyword can sometimes lead to 
 Creational Design Patterns address this by **controlling object creation** through various flexible techniques — ensuring that your code is **robust, maintainable, and scalable**.
 
 ---
-- ✅ [Singleton]() 
+- ✅ [Singleton](https://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/creational/singleton) 
 - ✅ [Factory Pattern](https://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/creational/factory)
 - ✅ [Abstract Factory](https://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/creational/abstractfactory)
 - ✅ [Builder](http://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/creational/builder)
