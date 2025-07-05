@@ -4,7 +4,7 @@
 - ✅ [Singleton]() 
 - ✅ [Factory Pattern](https://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/creational/factory)
 - ✅ [Abstract Factory](https://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/creational/abstractfactory)
-- ✅ [Builder]()
+- ✅ [Builder](http://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/creational/builder)
 
 
 ## 🔧 **Structural**
