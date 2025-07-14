@@ -53,6 +53,20 @@ Creational Design Patterns address this by **controlling object creation** throu
 - ✅ [Builder](http://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/creational/builder)
 
 
-## 🔧 **Structural**
+## 🏗️ Structural Design Patterns
+
+**Structural Design Patterns** provide different ways to **organize classes and objects** to form **larger, more complex structures**.
+
+They focus on how classes and objects are **composed** to get new functionality.
+
+For example, Structural Patterns often use **inheritance** and **composition** to:
+- Create a **large object** from smaller objects.
+- Make unrelated classes work together smoothly.
+- Simplify relationships between entities in your codebase.
+
+---
+- ✅ [Adapter]()
+- ✅ [Composite]()
+
 
 ## ⚡ **Behavioral**

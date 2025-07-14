@@ -215,7 +215,7 @@ Here are some common real-world examples:
 The Adapter Pattern makes **existing classes work with new interfaces** — **without changing their source code**.
 
 ---
-
+![img.png](img.png)
 **Happy Designing!** 🔌📚
 
 
