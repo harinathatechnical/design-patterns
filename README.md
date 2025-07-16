@@ -67,9 +67,9 @@ For example, Structural Patterns often use **inheritance** and **composition** t
 ---
 - ✅ [Adapter](https://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/structural/adapter)
 - ✅ [Composite](https://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/structural/composite)
-- ✅ [Proxy]()
-- ✅ [Flyweight]()
-- ✅ [Facade]()
+- ✅ [Proxy](https://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/structural/proxy)
+- ✅ [Flyweight](https://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/structural/flyweight)
+- ✅ [Facade](https://github.com/harinathatechnical/design-patterns/tree/main/src/main/java/org/structural/facade)
 
 
 ## ⚡ **Behavioral**
